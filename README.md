@@ -1,2 +1,3 @@
 # holbertonschool-zero_day
-repeating trimester
+Holberton School is so cool!
+repeating trimester!
